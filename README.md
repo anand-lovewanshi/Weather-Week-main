@@ -1,0 +1,2 @@
+# Weather Week
+Welcome to World Weather Week! Get ready to explore the weather forecasts of cities around the globe for the entire week. Powered by OpenWeather API, stay informed about temperatures, conditions, and more. Plan your travels, stay prepared, and embrace the world's weather all in one place! Experience the convenience of global weather updates at your fingertips. Start your journey with World Weather Week today!
